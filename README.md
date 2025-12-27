@@ -1,6 +1,6 @@
 <div align="center">
   
-![MasterHead](https://miro.medium.com/0*XH3rLskyOsCqVV-j.jpg)
+![MasterHead](https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/main/banner.jpg)
 
 # Hi 👋, I'm Kartik Goel
 
