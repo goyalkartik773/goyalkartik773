@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/goelKartik773?s=08)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalkartik773@gmail.com)
 
-![Visitors](https://profile-counter.glitch.me/goyalkartik773/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=goyalkartik773&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -112,8 +112,8 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&show_icons=true&theme=algolia&count_private=true&hide=issues" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=goyalkartik773&theme=algolia&hide_border=false&count_private=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&show_icons=true&theme=algolia&count_private=true&hide=issues&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=goyalkartik773&theme=algolia&hide_border=false" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=goyalkartik773&layout=compact&theme=algolia&count_private=true" alt="Top Languages" />
 
@@ -175,7 +175,7 @@ const kartik = {
 
 <div align="center">
 
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goyalkartik773&theme=react-dark&hide_border=true)](https://github.com/goyalkartik773)
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goyalkartik773&theme=react-dark&hide_border=true&area=true)](https://github.com/goyalkartik773)
 
 </div>
 
