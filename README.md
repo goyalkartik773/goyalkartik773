@@ -419,8 +419,6 @@ const kartikGoel = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>*Note: To enable the snake animation, add the [GitHub Snake Action](https://github.com/Platane/snk) to your repository*</sub>
-
 </div>
 
 <!-- Wave Divider -->
