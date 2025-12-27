@@ -1,6 +1,6 @@
 <div align="center">
   
-![MasterHead](https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/main/banner.jpg)
+![MasterHead](https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/main/banner.jpeg)
 
 # Hi 👋, I'm Kartik Goel
 
