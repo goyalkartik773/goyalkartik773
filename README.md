@@ -1,73 +1,202 @@
+<div align="center">
+  
 ![MasterHead](https://miro.medium.com/0*XH3rLskyOsCqVV-j.jpg)
-<h1 align="center">Hi 👋, I'm Kartik Goel</h1>
-<h3 align="center">A Passionate Full Stack Web Developer and a Problem Solver</h3>
-<h2>BONJURE 👋</h2>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
-<h3> 💻 About Me </h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+# Hi 👋, I'm Kartik Goel
 
-- 🔭 I’m currently a rookie Web Developer.
+### A Passionate Full Stack Web Developer & Problem Solver
 
-- 💬 Ask me about **C/C++, Python and Full Stack Web Development**
+[![Portfolio](https://img.shields.io/badge/Portfolio-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://kartikgoel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-goel-a95b2630b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/goelKartik773?s=08)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalkartik773@gmail.com)
 
-- 🎓 Studying Computer Science Engeering in JIIT NOIDA Sector-62
+![Visitors](https://profile-counter.glitch.me/goyalkartik773/count.svg)
 
-- 📫 How to reach me **goyalkartik773@gmail.com**
-
-<h3>🛠 Tech Stack</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=anthon&size=26&duration=5002&color=D32EFF&lines=C%2FC%2B%2B;HTML+%7C+CSS+%7C+JavaScript;MySQL+%7C+SQL+%7C+MongoDB;TailwindCSS+%7C+Bootstrap;React+%7C+NextJS+%7C+NodeJs;Visual+Studio+code+%7C+Git)](https://git.io/typing-svg)
-- 💻 C/C++
-
-- 🌐 HTML | CSS | JavaScript | HTML5
-  
-- 🌐 React Js | Next Js | Node Js | Express Js | PHP
-  
-- 🌐 Tailwind CSS | Bootstrap
-
-- 🛢 SQL | MySQL | MongoDB |Prisma + SQL-LITE + MIGRATIONS
-
-- 🔧 Visual Studio code | Git
-
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.c.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
-<a href="https://www.python.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
- <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
- <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-<h2 align="left">Statistics......</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=goyalkartik773&count_private=true&theme=algolia" >
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
-<p><img align="center" src="https://camo.githubusercontent.com/bee87b0b8a1c32633c6d2505e44ce9c9698a5edcd8f20b2509cd5284c3c75163/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d676f79616c6b617274696b373733267468656d653d6769746875622d6461726b26686964655f626f726465723d7472756526636f756e745f707269766174653d7472756526646174655f666f726d61743d6a2532304d25354225323059253544" /></p><hr>
-<p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/goyalkartik773/count.svg" /></p>
-<h2 align="left">Sab Dekh Kr Jana......</h2>
+## 💫 About Me
 
-| Where | What |
-|-:|:-| 
-| [![Website](https://img.shields.io/badge/Website-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://kartikportfolio.onrender.com/) | Aah man ! spent ages in making it,just hop in to see my projects ||
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/goelKartik773?s=08) | Aint that active,but come to me. ||
-| [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/goyalkartik773) | That's exactly what you're seeing right now. Head over to the repositories for more. |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-goel-a95b2630b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | More professional, I guess. You'll find my professional history there. |
-| [![CodeChef](https://img.shields.io/badge/CodeChef-%2336465D.svg?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/goyalkartik773) | 1st Platform where I started my CP. |
-| [![CodeForces](https://img.shields.io/badge/CodeForces-F60023?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/goyalkartik773) | After Codechef, lets see Codeforces. |
-| [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?style=for-the-badge&logo=hackerank&logoColor=white)](https://www.hackerrank.com/goyalkartik773) | Platform Where I practice my skill. |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/Kartikgoel773) | Platform Where I practice my DSA. |
-| [![GFG](https://img.shields.io/badge/GFG-00FF00?style=for-the-badge&logo=gfg&logoColor=white)](https://auth.geeksforgeeks.org/user/goyalkartik773) | Not so much practice in this Platform. |
+🎓 **Computer Science Engineering Student** at JIIT NOIDA Sector-62
 
+🌱 Currently mastering **Data Structures & Algorithms**
 
+💻 Building modern web applications with **MERN/NEXT.js Stack**
 
-<h2>AU REVOIR 👋</h2>
+🔭 Exploring the depths of **Full Stack Development**
 
+💬 Ask me about **C/C++, Python, JavaScript, React, Next.js, Node.js**
+
+📫 Reach me at **goyalkartik773@gmail.com**
+
+🌐 Check out my [**Portfolio**](https://kartikgoel-portfolio.vercel.app/) to see my projects!
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D32EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
+### 👨‍💻 Programming Languages
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+### 🗄️ Databases & ORMs
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+### 🔧 Tools & Technologies
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&show_icons=true&theme=algolia&count_private=true&hide=issues" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=goyalkartik773&theme=algolia&hide_border=false&count_private=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=goyalkartik773&layout=compact&theme=algolia&count_private=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+<div align="center">
+
+| Platform | Profile | Status |
+|:--------:|:-------:|:------:|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | [**Kartikgoel773**](https://www.leetcode.com/Kartikgoel773) | 🔥 Active |
+| ![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white) | [**goyalkartik773**](https://codeforces.com/profile/goyalkartik773) | 💪 Grinding |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | [**goyalkartik773**](https://www.codechef.com/users/goyalkartik773) | 🎯 Practicing |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black) | [**goyalkartik773**](https://www.hackerrank.com/goyalkartik773) | ⚡ Active |
+| ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [**goyalkartik773**](https://auth.geeksforgeeks.org/user/goyalkartik773) | 📚 Learning |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link | Description |
+|:--------:|:----:|:-----------:|
+| 🌐 **Portfolio** | [![Website](https://img.shields.io/badge/Visit-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://kartikgoel-portfolio.vercel.app/) | Explore my projects and work |
+| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-goel-a95b2630b) | Professional networking |
+| 🐦 **Twitter** | [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/goelKartik773?s=08) | Tech updates & thoughts |
+| 💻 **GitHub** | [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/goyalkartik773) | Code repositories |
+| 📧 **Email** | [![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalkartik773@gmail.com) | Get in touch |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const kartik = {
+    currentlyLearning: ["Data Structures", "Algorithms", "System Design"],
+    workingOn: ["Full Stack Projects", "Competitive Programming"],
+    goals2025: [
+        "Master Advanced DSA",
+        "Build 10+ Full Stack Projects",
+        "Contribute to Open Source",
+        "Achieve Expert on CodeForces"
+    ],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goyalkartik773&theme=react-dark&hide_border=true)](https://github.com/goyalkartik773)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✨ Show some ❤️ by starring some of my repositories!
+
+**Thanks for visiting! 🙏**
+
+</div>
+
+---
+
+<div align="center">
+  
+**© 2025 Kartik Goel | Built with 💜 and ☕**
+
+</div>
