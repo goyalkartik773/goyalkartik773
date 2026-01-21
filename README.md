@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/main/banner.jpeg" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/goyalkartik773/goyalkartik773/main/bner.jpeg" alt="Banner" width="100%" />
 
 <!-- Animated Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Kartik+Goel" alt="Typing SVG" />
