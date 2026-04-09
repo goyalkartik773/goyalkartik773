@@ -275,19 +275,19 @@ hobbies: ["Coding", "Problem Solving", "Learning New Tech"]
   <tbody>
     <tr>
       <td><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></td>
-      <td><a href="https://www.leetcode.com/Kartikgoel773"><b>Kartikgoel773</b></a></td>
+      <td><a href="https://www.leetcode.com/"><b>Kartikgoel773</b></a></td>
       <td>🔥 Active</td>
       <td><img src="https://img.shields.io/badge/Solving-Daily-success?style=flat-square" alt="Daily"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"/></td>
-      <td><a href="https://codeforces.com/profile/goyalkartik773"><b>goyalkartik773</b></a></td>
+      <td><a href="https://codeforces.com/profile/"><b>goyalkartik773</b></a></td>
       <td>💪 Grinding</td>
       <td><img src="https://img.shields.io/badge/Rating-Improving-blue?style=flat-square" alt="Rating"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></td>
-      <td><a href="https://www.codechef.com/users/goyalkartik773"><b>goyalkartik773</b></a></td>
+      <td><a href="https://www.codechef.com/users/"><b></b></a></td>
       <td>🎯 Practicing</td>
       <td><img src="https://img.shields.io/badge/Contests-Regular-orange?style=flat-square" alt="Contests"/></td>
     </tr>
@@ -308,7 +308,7 @@ hobbies: ["Coding", "Problem Solving", "Learning New Tech"]
 
 <!-- LeetCode Stats Card -->
 <br/>
-<img src="https://leetcard.jacoblin.cool/Kartikgoel773?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="60%"/>
+<img src="https://leetcard.jacoblin.cool/?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="60%"/>
 
 </div>
 
